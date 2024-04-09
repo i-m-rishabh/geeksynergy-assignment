@@ -1,0 +1,54 @@
+.movie-container{
+    padding: 20px;
+    margin: 50px;
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    box-shadow: 0 0 10px white;
+    border-radius: 10px;
+}
+.movie{
+    width: 100%;
+    display: flex;
+    gap:10vh;
+    /* justify-content: space-around; */
+}
+.movie-votes{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.movie-image{
+    
+}
+img{
+    border-radius: 10px;
+    width: 200px;
+}
+.movie-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.movie-title{
+    /* font-weight: bold; */
+    font-size: 20px;
+}
+.watch-button-div{
+    width: 100%;
+}
+.watch-trailer-button{
+    width: 100%;
+    background-color: rgb(0, 123, 255);
+}
+.watch-trailer-button:hover{
+    background-color: rgb(0, 86, 179);;
+}
+.heading{
+    font-weight: bold;
+}

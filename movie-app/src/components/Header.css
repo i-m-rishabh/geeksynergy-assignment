@@ -1,0 +1,29 @@
+.header{
+    width: 100%;
+    position: sticky;
+    top: 0;
+    box-shadow: 0 0 5px white;
+    background-color: black;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.nav-link{
+    font-weight: bold;
+    list-style: none;
+    padding: 10px;
+}
+.active{
+    color: rgb(106, 106, 247);
+    /* font-size: 110%; */
+}
+.logout-button{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background-color: red;
+    padding: 5px;
+}
