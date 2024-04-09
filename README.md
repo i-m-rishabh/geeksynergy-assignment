@@ -12,3 +12,17 @@ To install and run the app locally, follow these steps:
 3. Install dependencies: npm install
 4. Start the development server: npm run dev
 5. Open your browser and navigate to `http://localhost:3000` to view the app.
+
+## Screenshots
+
+### Signup Page
+![Signup Page](/screenshots/signup.png)
+
+### Login Page
+![Login Page](/screenshots/login.png)
+
+### Homepage
+![Homepage](/screenshots/home.png)
+
+### Company Info Page
+![Company Info Page](/screenshots/company-info.png)
